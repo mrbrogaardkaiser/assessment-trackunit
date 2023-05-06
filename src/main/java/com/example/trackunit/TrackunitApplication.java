@@ -1,13 +1,13 @@
-package com.example.shopping;
+package com.example.trackunit;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ShoppingApplication {
+public class TrackunitApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ShoppingApplication.class, args);
+        SpringApplication.run(TrackunitApplication.class, args);
     }
 
 }
